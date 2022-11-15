@@ -1,0 +1,20 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto Flex", sans-serif;
+}
+
+.navbar-items {
+  padding-right: 17px;
+  font-size: 14px;
+  color: #ababab;
+  cursor: pointer;
+}
+.navbar-items:hover {
+  color: #00b39b;
+}
+.box-items {
+  margin: 12px;
+  border-radius: 10px;
+  width: 331px;
+  height: 365px;
+}
